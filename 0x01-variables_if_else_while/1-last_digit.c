@@ -3,7 +3,7 @@
 #include <stdio.h>
 
 /**
- * main: checks if the number is positive, zero, or negative
+ * main - checks if the number is positive, zero, or negative
  *
  * Description: using the main function
  * this program prints 'orgramming is positive, zero, or negative
