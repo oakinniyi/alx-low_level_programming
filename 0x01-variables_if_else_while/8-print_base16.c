@@ -9,15 +9,15 @@
  */
 int main(void)
 {
-	int i;
+	char c;
 
-	for (i = 48; 1 < 58; i++)
+	for (c = '0'; c <= '9'; c++)
 	{
-		putchar(i);
+		putchar(c);
 	}
-	for (i = 97; i < 103; i++)
+	for (c = 'a'; c <= 'f'; c++)
 	{
-		putchar(i);
+		putchar(c);
 	}
 	putchar('\n');
 	return (0);
