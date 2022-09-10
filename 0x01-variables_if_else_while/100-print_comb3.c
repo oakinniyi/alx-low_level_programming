@@ -4,13 +4,12 @@
  * main - prints all possible different combinations of two digits
  *
  * Description: using the main function
- * program prints prints all possible different combinations of two digits including commas and spaces
+ * program prints prints all possible different combinations of two digits
  * Return: 0;
  */
 int main(void)
 {
 	int i, a;
-	
 	i = 48;
 	a = 48;
 
