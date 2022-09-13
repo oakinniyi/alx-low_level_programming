@@ -1,9 +1,8 @@
 #include "main.h"
 
 /**
- * jack_baue - prints every minute of the day of Jack Bauer,
+ * jack_bauer - prints every minute of the day of Jack Bauer,
  * starting from 00:00 to 23:59
- * @n: is the argument of the function
  *
  * Return: Always 0
  */
