@@ -12,7 +12,7 @@ int main(void)
 	a1 = 1;
 	a2 = 2;
 	fa = b = 0;
-	while (fn <= 4000000)
+	while (fa <= 4000000)
 	{
 		fa = a1 + a2;
 		a1 = a2;
