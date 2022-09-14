@@ -14,6 +14,6 @@ int main()
 		if ((i % 3) == 0 || (i % 5) == 0)
 		j += i;
 	}
-	printf("%d\n", j);
+	_putchar("%d\n", j);
 	return (0);
 }
