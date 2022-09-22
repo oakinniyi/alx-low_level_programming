@@ -1,6 +1,7 @@
 #include <stdio.h>
 
-/* main - function of the program
+/**
+ * main - function of the program
  * Retuen: 0
  */
 int main(void)
