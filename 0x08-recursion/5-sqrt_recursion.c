@@ -2,7 +2,8 @@
 
 /**
  * power_operation - checks for natural squares
- * @n: input number.
+ * @n: input number
+ * @c: even divider
  * Return: square root or -1
  */
 
