@@ -6,7 +6,7 @@
  * @min: minimum value
  * @max: maximum value
  *
- * Returns: pointer to the newly created array
+ * Return: pointer to the newly created array
  * If min > max, return NULL
  * If malloc fails, return NULL
  */
